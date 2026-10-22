@@ -1,9 +1,8 @@
-# Практична робота № 1. Вступ до аналітики даних та Google Colab
+# Practical work No. 1. Introduction to data analytics and Google Colab
 
-**Що зроблено:** створено ноутбук у Google Colab, імпортовано Pandas і NumPy, зчитано CSV у DataFrame, виконано первинний огляд (`head`, `tail`, `shape`, `info`, `describe`), виконано вправи з масивами NumPy (векторизація, агрегація за осями), змонтовано Google Диск.
+**What was done:** created a notebook in Google Colab, imported Pandas and NumPy, read CSV into DataFrame, performed initial inspection (`head`, `tail`, `shape`, `info`, `describe`), performed an exercise with NumPy arrays (vectorization, aggregation by axes), mounted Google Drive.
 
-**Набір даних:** `sales.csv` — тестові дані про продажі кав'ярні (колонки: date, hour, drink, payment, money).
+**Dataset:** `sales.csv` — test data on coffee shop sales (columns: date, time, drink, payment, money).
 
-**Файли:**
-- `Завдання1_Прізвище.ipynb` — ноутбук із завданнями 1–7 та ★
-- `sales.csv` — набір даних
+**Files:**
+- `lab1.ipynb` — notebook with tasks 1–7 and ★
